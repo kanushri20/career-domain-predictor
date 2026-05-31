@@ -1,0 +1,181 @@
+Gender,Age,GPA,Major,Interested Domain,Projects,Future Career,Python,SQL,Java
+Male,21,3.5,Computer Science,Artificial Intelligence,Chatbot Development,Machine Learning Researcher,Strong,Strong,Weak
+Female,20,3.2,Computer Science,Data Science,Data Analytics,Data Scientist,Average,Strong,Weak
+Male,22,3.8,Computer Science,Software Development,E-commerce Website,Software Engineer,Strong,Strong,Average
+Female,21,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Weak,Strong,Strong
+Male,23,3.4,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Weak,Strong
+Female,22,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Weak
+Male,20,3.6,Computer Science,Database Management,SQL Query Optimization,Database Administrator,Average,Strong,Weak
+Female,21,3.7,Computer Science,Cloud Computing,AWS Deployment,Cloud Solutions Architect,Weak,Strong,Average
+Male,23,3.3,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Weak,Strong
+Female,22,3.5,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Weak,Average,Strong
+Male,21,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Average,Weak
+Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+Female,21,3.3,Computer Science,Mobile App Development,iOS App,Mobile App Developer,Average,Weak,Strong
+Male,23,3.5,Computer Science,Computer Graphics,Game Development,Game Developer,Weak,Average,Strong
+Female,22,3.8,Computer Science,Software Engineering,E-commerce Website,Software Engineer,Strong,Strong,Average
+Male,20,3.6,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Weak,Strong
+Female,21,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Weak
+Male,23,3.6,Computer Science,Database Management,SQL Query Optimization,Database Administrator,Average,Strong,Weak
+Female,22,3.7,Computer Science,Cloud Computing,AWS Deployment,Cloud Solutions Architect,Weak,Strong,Average
+Male,20,3.3,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Weak,Strong
+Female,21,3.5,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Weak,Average,Strong
+Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Average,Weak
+Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+Female,21,3.3,Computer Science,Mobile App Development,iOS App,Mobile App Developer,Average,Weak,Strong
+Male,23,3.5,Computer Science,Computer Graphics,Game Development,Game Developer,Weak,Average,Strong
+Female,22,3.8,Computer Science,Software Engineering,E-commerce Website,Software Engineer,Strong,Strong,Average
+Male,20,3.6,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Weak,Strong
+Female,21,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Weak
+Male,23,3.6,Computer Science,Database Management,SQL Query Optimization,Database Administrator,Average,Strong,Weak
+Female,22,3.7,Computer Science,Cloud Computing,AWS Deployment,Cloud Solutions Architect,Weak,Strong,Average
+Male,20,3.3,Computer Science,Mobile App Development,Android App,Mobile App Developer,Average,Weak,Strong
+Female,21,3.5,Computer Science,Computer Graphics,3D Rendering,Graphics Programmer,Weak,Average,Strong
+Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Average,Weak
+Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Strong,Strong,Average
+Female,21,3.3,Computer Science,Mobile App Development,iOS App,Mobile App Developer,Average,Weak,Strong
+Male,23,3.5,Computer Science,Computer Graphics,Game Development,Game Developer,Weak,Average,Strong
+Female,22,3.8,Computer Science,Software Engineering,E-commerce Website,Software Engineer,Strong,Strong,Average
+Male,20,3.6,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Weak,Strong
+Female,21,3.9,Computer Science,Machine Learning,Image Recognition,Machine Learning Engineer,Strong,Average,Weak
+Female,22,3.6,Computer Science,Cloud Computing,GCP Deployment,Cloud Solutions Architect,Strong,Strong,Average
+Male,20,3.3,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Weak,Strong
+Female,21,3.7,Computer Science,Web Development,E-commerce Website,Web Developer,Weak,Strong,Strong
+Male,23,3.5,Computer Science,Mobile App Development,iOS Game,Mobile App Developer,Average,Weak,Strong
+Female,22,3.8,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Weak,Average,Strong
+Male,21,3.6,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Average,Weak
+Female,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Weak
+Male,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Weak,Strong,Average
+Female,21,3.5,Computer Science,Database Management,SQL Query Optimization,Database Administrator,Average,Weak,Strong
+Male,23,3.8,Computer Science,Cloud Computing,AWS Deployment,Cloud Solutions Architect,Strong,Strong,Average
+Male,22,3.6,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Weak,Strong
+Female,21,3.7,Computer Science,Web Development,E-commerce Website,Web Developer,Weak,Strong,Strong
+Male,20,3.3,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Weak,Strong
+Female,22,3.8,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Weak,Average,Strong
+Female,21,3.6,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Average,Weak
+Male,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Weak
+Male,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Weak,Strong,Average
+Male,21,3.5,Computer Science,Database Management,SQL Query Optimization,Database Administrator,Average,Weak,Strong
+Male,23,3.8,Computer Science,Cloud Computing,AWS Deployment,Cloud Solutions Architect,Strong,Strong,Average
+Male,22,3.6,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Weak,Strong
+Male,20,3.3,Computer Science,Web Development,E-commerce Website,Web Developer,Weak,Strong,Strong
+Male,21,3.7,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Weak,Strong
+Male,22,3.5,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Weak,Average,Strong
+Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Average,Weak
+Male,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Weak
+Male,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Weak,Strong,Average
+Male,21,3.5,Computer Science,Database Management,SQL Query Optimization,Database Administrator,Average,Weak,Strong
+Male,23,3.8,Computer Science,Cloud Computing,AWS Deployment,Cloud Solutions Architect,Strong,Strong,Average
+Male,22,3.6,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Weak,Strong
+Male,20,3.3,Computer Science,Web Development,E-commerce Website,Web Developer,Weak,Strong,Strong
+Male,21,3.7,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Average,Weak,Strong
+Male,22,3.5,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Weak,Average,Strong
+Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Average,Weak
+Male,20,3.3,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Weak
+Male,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Weak,Strong,Average
+Male,21,3.5,Computer Science,Database Management,SQL Query Optimization,Database Administrator,Average,Weak,Strong
+Female,22,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Weak,Strong,Average
+Male,35,3.9,Computer Science,Cloud Computing,AWS Deployment,Cloud Solutions Architect,Strong,Strong,Average
+Female,33,3.8,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Weak,Strong,Average
+Female,37,3.7,Computer Science,Database Management,SQL Query Optimization,Database Administrator,Average,Weak,Strong
+Female,29,3.6,Computer Science,Mobile App Development,Android Game,Mobile App Developer,Strong,Average,Strong
+Female,31,3.5,Computer Science,Web Development,E-commerce Website,Web Developer,Weak,Strong,Strong
+Male,35,3.9,Computer Science,Software Development,Social Media Platform,Software Engineer,Average,Weak,Strong
+Male,37,3.8,Computer Science,Computer Graphics,3D Animation,Graphics Programmer,Weak,Average,Strong
+Female,29,3.7,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Average,Weak
+Male,33,3.6,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Weak
+Male,22,3.7,Computer Science,Network Security,Firewall Management,Security Analyst,Strong,Average,Weak
+Female,21,3.6,Computer Science,Machine Learning,Deep Learning Models,Machine Learning Engineer,Strong,Average,Weak
+Male,23,3.8,Computer Science,Database Management,Data Warehouse Design,Database Administrator,Average,Strong,Weak
+Female,22,3.5,Computer Science,Software Development,Embedded Systems,Embedded Software Engineer,Weak,Strong,Average
+Male,21,3.9,Computer Science,Web Development,Front-End Development,Web Developer,Strong,Average,Weak
+Female,20,3.7,Computer Science,Data Science,Statistical Analysis,Data Analyst,Strong,Average,Weak
+Male,22,3.4,Computer Science,Artificial Intelligence,Robotics,Robotics Engineer,Strong,Strong,Weak
+Female,21,3.5,Computer Science,Game Development,Mobile Game Development,Game Developer,Weak,Strong,Average
+Male,23,3.6,Computer Science,Cybersecurity,Penetration Testing,Ethical Hacker,Strong,Strong,Average
+Female,20,3.2,Computer Science,Computer Vision,Object Detection,Computer Vision Engineer,Strong,Average,Weak
+Male,22,3.8,Computer Science,Software Engineering,DevOps,DevOps Engineer,Strong,Average,Weak
+Female,21,3.7,Computer Science,Bioinformatics,Genomic Data Analysis,Bioinformatician,Weak,Strong,Strong
+Male,23,3.4,Computer Science,IoT (Internet of Things),Smart Home Automation,IoT Developer,Weak,Strong,Average
+Female,22,3.9,Computer Science,Natural Language Processing,Chatbot Development,NLP Engineer,Strong,Average,Weak
+Male,20,3.6,Computer Science,Data Mining,Market Analysis,Data Analyst,Strong,Average,Weak
+Female,21,3.7,Computer Science,Cloud Computing,Cloud Migration Specialist,Cloud Solutions Architect,Weak,Strong,Average
+Male,23,3.3,Computer Science,Human-Computer Interaction,Usability Testing,UX Designer,Strong,Average,Weak
+Female,22,3.5,Computer Science,Biomedical Computing,Medical Imaging Analysis,Healthcare IT Specialist,Weak,Strong,Average
+Male,21,3.8,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Strong,Average,Weak
+Male,22,3.7,Computer Science,Computer Graphics,Virtual Reality Development,VR Developer,Weak,Strong,Average
+Female,21,3.3,Computer Science,Blockchain Technology,Smart Contracts Developer,Blockchain Engineer,Weak,Average,Strong
+Male,23,3.5,Computer Science,Information Retrieval,Search Engine Optimization,SEO Specialist,Weak,Average,Strong
+Female,22,3.8,Computer Science,Data Privacy,Privacy Compliance Officer,Data Privacy Specialist,Weak,Average,Strong
+Male,20,3.6,Computer Science,Geographic Information Systems,GIS Mapping,Geospatial Analyst,Weak,Average,Strong
+Female,21,3.9,Computer Science,Distributed Systems,Distributed Systems Architect,Distributed Systems Engineer,Weak,Average,Strong
+Male,23,3.6,Computer Science,Digital Forensics,Computer Forensic Analyst,Digital Forensics Specialist,Weak,Average,Strong
+Female,22,3.7,Computer Science,Bioinformatics,Protein Structure Prediction,Bioinformatician,Weak,Average,Strong
+Male,20,3.3,Computer Science,Human-Computer Interaction,User Experience Researcher,UX Designer,Weak,Average,Strong
+Female,21,3.5,Computer Science,Biomedical Computing,Healthcare Data Analyst,Healthcare IT Specialist,Weak,Average,Strong
+Male,23,3.8,Computer Science,Quantum Computing,Quantum Algorithm Development,Quantum Computing Researcher,Weak,Average,Strong
+Female,20,3.6,Computer Science,Artificial Intelligence,Neural Network Development,AI Researcher,Strong,Average,Weak
+Male,22,3.4,Computer Science,Data Science,Big Data Analytics,Data Analyst,Average,Strong,Weak
+Female,21,3.9,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+Male,23,3.7,Computer Science,Web Development,E-commerce Website,Web Developer,Weak,Strong,Strong
+Female,22,3.5,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Weak,Strong
+Male,21,3.8,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Weak,Weak
+Female,20,3.7,Computer Science,Database Management,SQL Database Design,Database Administrator,Weak,Strong,Average
+Male,23,3.3,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Weak,Weak
+Female,22,3.5,Computer Science,Mobile App Development,iOS App Development,Mobile App Developer,Average,Strong,Weak
+Male,21,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Weak,Weak
+Female,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Weak,Strong,Strong
+Male,23,3.3,Computer Science,Mobile App Development,Android App Development,Mobile App Developer,Average,Weak,Strong
+Female,20,3.5,Computer Science,Computer Graphics,3D Modeling,Graphics Programmer,Weak,Average,Strong
+Male,22,3.8,Computer Science,Software Engineering,Enterprise Software Development,Software Engineer,Strong,Strong,Average
+Female,21,3.7,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Weak,Strong
+Male,23,3.3,Computer Science,Database Management,SQL Query Optimization,Database Administrator,Average,Strong,Weak
+Female,22,3.5,Computer Science,Cloud Computing,AWS Deployment,Cloud Solutions Architect,Weak,Strong,Average
+Male,21,3.8,Computer Science,Artificial Intelligence,Computer Vision,AI Researcher,Strong,Average,Weak
+Male,23,3.7,Computer Science,Data Science,Machine Learning,Data Scientist,Average,Strong,Weak
+Female,20,3.6,Computer Science,Software Development,Web Application Development,Software Engineer,Strong,Weak,Strong
+Male,22,3.4,Computer Science,Web Development,E-commerce Website,Web Developer,Weak,Strong,Strong
+Female,21,3.9,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Weak
+Male,23,3.7,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Weak
+Female,22,3.5,Computer Science,Database Management,SQL Database Administration,Database Administrator,Weak,Strong,Average
+Male,21,3.8,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Weak
+Female,20,3.7,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Weak,Strong,Average
+Male,23,3.3,Computer Science,Artificial Intelligence,Reinforcement Learning,AI Researcher,Strong,Weak,Average
+Female,22,3.5,Computer Science,Data Science,Data Mining,Data Analyst,Average,Weak,Strong
+Male,21,3.6,Computer Science,Web Development,Front-End Development,Web Developer,Weak,Strong,Average
+Female,20,3.7,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Weak
+Female,22,3.7,Computer Science,Artificial Intelligence,Reinforcement Learning,AI Researcher,Strong,Average,Weak
+Male,21,3.6,Computer Science,Data Science,Machine Learning,Data Scientist,Strong,Average,Weak
+Female,20,3.8,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+Male,23,3.7,Computer Science,Web Development,E-commerce Website,Web Developer,Weak,Strong,Strong
+Female,22,3.5,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Weak,Strong
+Male,21,3.9,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Weak
+Female,22,3.7,Computer Science,Database Management,SQL Database Design,Database Administrator,Weak,Strong,Average
+Male,20,3.6,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Weak,Weak
+Female,21,3.5,Computer Science,Mobile App Development,iOS App Development,Mobile App Developer,Weak,Strong,Average
+Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Weak,Weak
+Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Weak,Strong,Strong
+Female,20,3.6,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Weak
+Male,21,3.4,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Weak
+Female,22,3.5,Computer Science,Database Management,SQL Database Administration,Database Administrator,Weak,Strong,Average
+Male,23,3.7,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Weak
+Female,20,3.8,Computer Science,Mobile App Development,Cross-Platform App Development,Mobile App Developer,Weak,Strong,Average
+Male,21,3.7,Computer Science,Artificial Intelligence,Reinforcement Learning,AI Researcher,Strong,Weak,Average
+Female,22,3.5,Computer Science,Data Science,Data Mining,Data Analyst,Average,Weak,Strong
+Male,23,3.6,Computer Science,Web Development,Front-End Development,Web Developer,Weak,Strong,Average
+Female,20,3.7,Computer Science,Machine Learning,Computer Vision,Machine Learning Engineer,Strong,Average,Weak
+Female,22,3.7,Computer Science,Artificial Intelligence,Neural Network Development,AI Researcher,Strong,Average,Weak
+Male,21,3.6,Computer Science,Data Science,Big Data Analytics,Data Analyst,Average,Strong,Weak
+Female,20,3.8,Computer Science,Software Development,Mobile App Development,Software Engineer,Strong,Strong,Average
+Male,23,3.7,Computer Science,Web Development,E-commerce Website,Web Developer,Weak,Strong,Strong
+Female,22,3.5,Computer Science,Cybersecurity,Network Security,Information Security Analyst,Average,Weak,Strong
+Male,21,3.9,Computer Science,Machine Learning,Image Classification,Machine Learning Engineer,Strong,Average,Weak
+Female,22,3.7,Computer Science,Database Management,SQL Database Design,Database Administrator,Weak,Strong,Average
+Male,20,3.6,Computer Science,Cloud Computing,Cloud Infrastructure Management,Cloud Solutions Architect,Strong,Weak,Weak
+Female,21,3.5,Computer Science,Mobile App Development,iOS App Development,Mobile App Developer,Weak,Strong,Average
+Male,23,3.8,Computer Science,Artificial Intelligence,Natural Language Processing,NLP Research Scientist,Strong,Weak,Weak
+Male,22,3.7,Computer Science,Web Development,Full-Stack Web App,Web Developer,Weak,Strong,Strong
+Female,20,3.6,Computer Science,Cybersecurity,Security Auditing,Information Security Analyst,Strong,Average,Weak
+Male,21,3.4,Computer Science,Machine Learning,Natural Language Processing,Machine Learning Engineer,Strong,Average,Weak
+Female,22,3.5,Computer Science,Database Management,SQL Database Administration,Database Administrator,Weak,Strong,Average
+Male,23,3.7,Computer Science,Cloud Computing,Cloud Solution Architecture,Cloud Solutions Architect,Strong,Strong,Weak
