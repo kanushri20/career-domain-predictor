@@ -65,6 +65,8 @@ Shows how academic performance influences domain choice.
 ### 4. Skill Distributions vs Domain
 Analyzes Python, SQL and Java proficiencies vs career preference.
 
+![GPA vs Domain](images/skils-domain.png)
+
 ##  Project Structure
 ```
 career-domain-predictor/
