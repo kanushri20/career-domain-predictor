@@ -80,11 +80,9 @@ career-domain-predictor/
 │
 ├── images/
 │ ├── heatmap.png
-│ ├── gender_vs_domain.png
-│ ├── gpa_vs_domain.png
-│ ├── python_vs_domain.png
-│ ├── sql_vs_domain.png
-│ └── java_vs_domain.png
+│ ├── gender-domain.png
+│ ├── gpa-domain.png
+│ └── skills-domain.png
 │
 └── README.md
 ```
